@@ -1,0 +1,330 @@
+[
+    {
+        "name": "Paracetamol",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319219/qi7pdj557tfwnpmayxfv.png",
+        "price": 50,
+        "subsidized_price": 35,
+        "quantity": 100,
+        "description": "Used to relieve mild to moderate pain and reduce fever, commonly used for headaches, muscle aches, colds, and flu."
+    },
+    {
+        "name": "Dolo 650",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319234/hmlmx3ydtp4f5qcbxbgm.png",
+        "price": 40,
+        "subsidized_price": 28,
+        "quantity": 60,
+        "description": "Commonly used for reducing fever and relieving pain associated with colds, viral infections, and body aches."
+    },
+    {
+        "name": "Amoxicillin",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319246/yuhvwla62kvg7coyrdcg.png",
+        "price": 150,
+        "subsidized_price": 105,
+        "quantity": 50,
+        "description": "An antibiotic used to treat bacterial infections such as pneumonia, throat infections, ear infections, and urinary tract infections."
+    },
+    {
+        "name": "Ibuprofen",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319258/gvayk1metavrwpi9xo9j.png",
+        "price": 60,
+        "subsidized_price": 42,
+        "quantity": 200,
+        "description": "A pain reliever and anti-inflammatory drug used for headaches, arthritis, muscle pain, and menstrual cramps."
+    },
+    {
+        "name": "Azithromycin",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319270/lpize5ooprfs1knyvnqp.png",
+        "price": 180,
+        "subsidized_price": 126,
+        "quantity": 60,
+        "description": "An antibiotic used to treat bacterial infections such as bronchitis, pneumonia, sinus infections, and skin infections."
+    },
+    {
+        "name": "Pantoprazole",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319282/z91vuv1rqrytyoi1ufex.png",
+        "price": 90,
+        "subsidized_price": 63,
+        "quantity": 80,
+        "description": "Used to treat acid reflux, GERD, and stomach ulcers by reducing stomach acid production."
+    },
+    {
+        "name": "Metformin",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319295/ccbpo50gzcowkpbg5qoy.png",
+        "price": 70,
+        "subsidized_price": 49,
+        "quantity": 120,
+        "description": "A medication used to control blood sugar levels in people with type 2 diabetes."
+    },
+    {
+        "name": "Losartan",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319309/lbe11kcxtrzdqjmyfrke.png",
+        "price": 250,
+        "subsidized_price": 175,
+        "quantity": 40,
+        "description": "Used to lower high blood pressure and reduce the risk of stroke in patients with heart disease."
+    },
+    {
+        "name": "Amlodipine",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319321/yoohc2pq15ca6axtsyts.png",
+        "price": 80,
+        "subsidized_price": 56,
+        "quantity": 150,
+        "description": "A calcium channel blocker used to treat high blood pressure and chest pain (angina)."
+    },
+    {
+        "name": "Cetirizine",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319334/gfzaglhzppfgfldpuup7.png",
+        "price": 40,
+        "subsidized_price": 28,
+        "quantity": 300,
+        "description": "An antihistamine used to relieve allergy symptoms such as runny nose, sneezing, and itchy eyes."
+    },
+    {
+        "name": "Clopidogrel",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319347/g2vxxshhrknylngeleo7.png",
+        "price": 300,
+        "subsidized_price": 210,
+        "quantity": 30,
+        "description": "Clopidogrel is an antiplatelet medication used to prevent heart attacks and strokes."
+    },
+    {
+        "name": "Lorazepam",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319359/vndk9ylr3dtzabgauhwg.png",
+        "price": 120,
+        "subsidized_price": 84,
+        "quantity": 70,
+        "description": "Lorazepam is a benzodiazepine used to treat anxiety disorders and insomnia."
+    },
+    {
+        "name": "Ranitidine",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319371/iptwocy5q7cat9hvf8pv.png",
+        "price": 70,
+        "subsidized_price": 49,
+        "quantity": 200,
+        "description": "Ranitidine is a medication that reduces stomach acid production, used for acid reflux and ulcers."
+    },
+    {
+        "name": "Levothyroxine",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319383/bq3aymqjahxrkj4zzmlh.png",
+        "price": 200,
+        "subsidized_price": 140,
+        "quantity": 50,
+        "description": "Levothyroxine is a thyroid hormone replacement used to treat hypothyroidism."
+    },
+    {
+        "name": "Doxycycline",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319395/q250hguj42mhjdnouznx.png",
+        "price": 150,
+        "subsidized_price": 105,
+        "quantity": 60,
+        "description": "Doxycycline is an antibiotic used to treat bacterial infections, including acne and respiratory infections."
+    },
+    {
+        "name": "Salbutamol",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319407/iahspsyztg92opolczoz.png",
+        "price": 60,
+        "subsidized_price": 42,
+        "quantity": 100,
+        "description": "Salbutamol is a bronchodilator used to treat asthma and other breathing disorders."
+    },
+    {
+        "name": "Ondansetron",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319420/wibbjggk6yxzmrhi2z80.png",
+        "price": 80,
+        "subsidized_price": 56,
+        "quantity": 150,
+        "description": "Ondansetron is used to prevent nausea and vomiting caused by chemotherapy and surgery."
+    },
+    {
+        "name": "Prednisolone",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319433/abzqvbhn8rigur24dxbm.png",
+        "price": 100,
+        "subsidized_price": 70,
+        "quantity": 50,
+        "description": "Prednisolone is a corticosteroid used to treat inflammation, allergies, and autoimmune disorders."
+    },
+    {
+        "name": "Chloroquine",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319446/q0gc1upxcxsnvddwbmw2.png",
+        "price": 70,
+        "subsidized_price": 49,
+        "quantity": 200,
+        "description": "Chloroquine is an antimalarial drug also used to treat autoimmune diseases like lupus."
+    },
+    {
+        "name": "Hydrochlorothiazide",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319457/fqw6etrhaq8mjxnzvanh.png",
+        "price": 90,
+        "subsidized_price": 63,
+        "quantity": 180,
+        "description": "Hydrochlorothiazide is a diuretic used to treat high blood pressure and fluid retention."
+    },
+    {
+        "name": "Vitamin D3",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319470/izkjlglddft9wamgu4xl.png",
+        "price": 200,
+        "subsidized_price": 140,
+        "quantity": 90,
+        "description": "Supports bone health and immune function."
+    },
+    {
+        "name": "Atorvastatin",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319482/htkazba0repir12icl8t.png",
+        "price": 500,
+        "subsidized_price": 350,
+        "quantity": 40,
+        "description": "Lowers cholesterol and reduces heart disease risk."
+    },
+    {
+        "name": "Metoprolol",
+        "image": "https://www.saphnixlifecare.com/wp-content/uploads/2024/05/METONIX-50-ER.jpg",
+        "price": 150,
+        "subsidized_price": 105,
+        "quantity": 60,
+        "description": "Used to treat high blood pressure and chest pain."
+    },
+    {
+        "name": "Dexamethasone",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319494/yoip4bbpj0u7pgz5pt1z.png",
+        "price": 120,
+        "subsidized_price": 84,
+        "quantity": 50,
+        "description": "A corticosteroid used to reduce inflammation."
+    },
+    {
+        "name": "Furosemide",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319506/pwgytoyo0finnv0nqxzw.png",
+        "price": 70,
+        "subsidized_price": 49,
+        "quantity": 80,
+        "description": "A diuretic used to treat fluid retention and high blood pressure."
+    },
+    {
+        "name": "Ciprofloxacin",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319519/icqnjzr882zsb0sae8hu.png",
+        "price": 100,
+        "subsidized_price": 70,
+        "quantity": 100,
+        "description": "An antibiotic used to treat bacterial infections."
+    },
+    {
+        "name": "Gliclazide",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319532/bkyat7c23mnkbtdifrpt.png",
+        "price": 180,
+        "subsidized_price": 126,
+        "quantity": 50,
+        "description": "Used to control blood sugar levels in type 2 diabetes."
+    },
+    {
+        "name": "Rifampicin",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319544/dccgyltcobsx6cnmlpyk.png",
+        "price": 200,
+        "subsidized_price": 140,
+        "quantity": 40,
+        "description": "An antibiotic used to treat tuberculosis and other infections."
+    },
+    {
+        "name": "Prednisone",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319556/ic2wenegdnhafzuiuklq.png",
+        "price": 80,
+        "subsidized_price": 56,
+        "quantity": 70,
+        "description": "A corticosteroid used to treat allergic and inflammatory conditions."
+    },
+    {
+        "name": "Bromhexine",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319569/t6fft5fadwgbgu6cdie2.png",
+        "price": 30,
+        "subsidized_price": 21,
+        "quantity": 200,
+        "description": "A mucolytic agent that helps clear mucus from the lungs."
+    },
+    {
+        "name": "Mometasone",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319581/sab0d2zhf4iadmvnp9yd.png",
+        "price": 250,
+        "subsidized_price": 175,
+        "quantity": 60,
+        "description": "A corticosteroid used to treat skin conditions and allergies."
+    },
+    {
+        "name": "Sildenafil",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319593/phqo6mtw4sallbr44rpe.png",
+        "price": 250,
+        "subsidized_price": 175,
+        "quantity": 60,
+        "description": "Used to treat erectile dysfunction and pulmonary hypertension."
+    },
+    {
+        "name": "Lisinopril",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319607/d7iaoyskkfvw1lc3g5r5.png",
+        "price": 120,
+        "subsidized_price": 84,
+        "quantity": 80,
+        "description": "An ACE inhibitor used to treat high blood pressure."
+    },
+    {
+        "name": "Tamsulosin",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319618/t0sxbuvjn1ablndq0r2x.png",
+        "price": 150,
+        "subsidized_price": 105,
+        "quantity": 70,
+        "description": "Used to treat symptoms of an enlarged prostate."
+    },
+    {
+        "name": "Bupropion",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319630/gh3h2lpvcwmilxynrtve.png",
+        "price": 300,
+        "subsidized_price": 210,
+        "quantity": 50,
+        "description": "An antidepressant used to treat depression and smoking cessation."
+    },
+    {
+        "name": "Loratadine",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319641/yqsbvwudp84jke8mjqxr.png",
+        "price": 40,
+        "subsidized_price": 28,
+        "quantity": 150,
+        "description": "An antihistamine used to treat allergies and hay fever."
+    },
+    {
+        "name": "Naproxen",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319654/cqzx0iitrhfctr7yeahi.png",
+        "price": 80,
+        "subsidized_price": 56,
+        "quantity": 100,
+        "description": "A pain reliever used to treat inflammation and arthritis."
+    },
+    {
+        "name": "Flunil-10 (Fluoxetine)",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319666/cyxzi3hcrwahosfqcfhi.png",
+        "price": 150,
+        "subsidized_price": 105,
+        "quantity": 60,
+        "description": "An antidepressant used to treat depression and anxiety."
+    },
+    {
+        "name": "Chlorpheniramine",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319678/lh9t5scjrohdvwcj60oo.png",
+        "price": 30,
+        "subsidized_price": 21,
+        "quantity": 200,
+        "description": "An antihistamine used to relieve allergy symptoms."
+    },
+    {
+        "name": "Nitroglycerin",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319691/fmpaebedwevj9ef1yvf5.png",
+        "price": 300,
+        "subsidized_price": 210,
+        "quantity": 50,
+        "description": "Used to treat chest pain (angina) and heart conditions."
+    },
+    {
+        "name": "Zinco Boost",
+        "image": "https://res.cloudinary.com/mohitbhalotia/image/upload/v1739319702/xu90l62gl0f4bexvfst6.png",
+        "price": 50,
+        "subsidized_price": 35,
+        "quantity": 120,
+        "description": "A zinc supplement that supports immune health."
+    }
+]
